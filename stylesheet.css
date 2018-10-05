@@ -1,0 +1,54 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  color: #4A4A4A;
+}
+
+.row0{
+  height: 219px;
+}
+.name {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 80px;
+  color: #4A4A4A;
+  }
+.title {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 54px;
+  color: #EE6A61;
+  font-weight: lighter;
+}
+.row3{
+  height: 400px;
+}
+}
+.column55{
+  width: 300px;
+}
+.Hello{
+  width: 450px;
+}
+.fotoguille{
+  margin-left: 175px;
+  position: relative;
+}
+.primerfondo{
+  margin-top: -150px;
+}
+.colllllll-12{
+  text-align: left;
+ font-weight: 300;
+ font-size: 16px;
+ display: block;
+ transform: rotate(90deg);
+ line-height: 20px;
+ margin-top: 80px;
+}
+.projects{
+  color: #FDF0EF;
+  text-align: right;
+  margin-top: -180px;
+}
+.fitplan{
+  margin-top: -110px;
+}
